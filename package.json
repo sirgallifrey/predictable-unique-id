@@ -1,0 +1,24 @@
+{
+  "name": "predictable-unique-id",
+  "version": "0.0.1",
+  "description": "Predictable unique id for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirgallifrey/predictable-unique-id.git"
+  },
+  "keywords": [
+    "predictable",
+    "unique",
+    "id"
+  ],
+  "author": "SirGallifrey aka Adilson Schmitt Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirgallifrey/predictable-unique-id/issues"
+  },
+  "homepage": "https://github.com/sirgallifrey/predictable-unique-id#readme"
+}
