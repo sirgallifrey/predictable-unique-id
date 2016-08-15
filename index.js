@@ -11,4 +11,4 @@ internals.issueId = function() {
     return id;
 }
 
-exports.issueId = issueId;
+exports.issueId = internals.issueId;
