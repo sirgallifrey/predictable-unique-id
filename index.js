@@ -1,6 +1,6 @@
 'use strict';
 
-const internals: {};
+const internals = {};
 
 internals.nextId = 0;
 
