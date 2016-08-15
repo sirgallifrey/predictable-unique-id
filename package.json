@@ -1,6 +1,6 @@
 {
   "name": "predictable-unique-id",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Predictable unique id for node",
   "main": "index.js",
   "scripts": {
